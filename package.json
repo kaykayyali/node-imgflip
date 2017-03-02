@@ -1,0 +1,24 @@
+{
+  "name": "node-imgflip",
+  "version": "0.0.1",
+  "description": "Simple module to interface with the imgflip meme api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaykayyali/node-imgflip.git"
+  },
+  "keywords": [
+    "imgflip",
+    "meme",
+    "generator"
+  ],
+  "author": "Kaysser E Kayyali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaykayyali/node-imgflip/issues"
+  },
+  "homepage": "https://github.com/kaykayyali/node-imgflip#readme"
+}
